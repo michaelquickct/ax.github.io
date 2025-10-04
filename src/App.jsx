@@ -16,7 +16,7 @@ export default function AlmanaxWebsite() {
           <img 
             src={logo} 
             alt="Almanax1" 
-            className="h-32 mx-auto mb-8"
+            className="h-20 md:h-32 w-auto mx-auto mb-8"
           />
           <div className="mb-10">
             <p className="text-3xl md:text-4xl text-emerald-100 font-light mb-4">
