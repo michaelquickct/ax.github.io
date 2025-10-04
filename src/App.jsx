@@ -1,5 +1,7 @@
 import React from 'react';
 import { Leaf, Satellite, Mountain, Droplets, Activity, Mail, Phone, MapPin } from 'lucide-react';
+import logo from './AlmanaxLogoHorizontalWhite.png'
+
 
 export default function AlmanaxWebsite() {
   return (
@@ -12,8 +14,8 @@ export default function AlmanaxWebsite() {
         </div>
         <div className="max-w-5xl mx-auto text-center relative z-10">
           <img 
-            src="/AlmanaxLogoHorizontalWhite.png" 
-            alt="Almanax" 
+            src={logo} 
+            alt="Almanax1" 
             className="h-32 mx-auto mb-8"
           />
           <div className="mb-10">
