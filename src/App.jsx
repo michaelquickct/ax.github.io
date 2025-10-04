@@ -208,6 +208,15 @@ export default function AlmanaxWebsite() {
                 of our remote sensing capabilities.
               </p>
             </div>
+
+            <div className="bg-emerald-50 p-6 rounded-lg">
+              <h3 className="text-xl font-semibold text-emerald-900 mb-2">Extended Team</h3>
+              <p className="text-gray-700">
+                Our extended team is made up of professionals with experience in agronomy, botany, broader farming,
+                software architecture, electrical engineering, materials engineering, PR, IR, legal affairs, and design. 
+                The work we do would not be possible without them.  
+              </p>
+            </div>
           </div>
         </div>
       </div>
